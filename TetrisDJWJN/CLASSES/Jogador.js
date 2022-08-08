@@ -1,4 +1,5 @@
 class Jogador{
+	
 	nickname:string;
 	email:string;
 	senha:string;
